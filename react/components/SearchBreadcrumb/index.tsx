@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 import { useSearchPage } from 'vtex.search-page-context/SearchPageContext'
-import { SearchBreadcrumb as SearchBreadcrumbStructuredData } from 'vtex.structured-data'
+import { SearchBreadcrumb as SearchBreadcrumbStructuredData } from 'deguns.deguns-structured-data'
 
 import BaseBreadcrumb, { NavigationItem } from '../BaseBreadcrumb'
 

@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { ProductContext } from 'vtex.product-context'
-import { ProductBreadcrumb as ProductBreadcrumbStructuredData } from 'vtex.structured-data'
+import { ProductBreadcrumb as ProductBreadcrumbStructuredData } from 'deguns.deguns-structured-data'
 
 import BaseBreadcrumb, { Props, NavigationItem } from '../BaseBreadcrumb'
 
