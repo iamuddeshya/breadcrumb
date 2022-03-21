@@ -1,5 +1,5 @@
 {
-  "name": "vtex.breadcrumbs",
+  "name": "deguns.deguns-breadcrumbs",
   "description": "A Breadcrumb component.",
   "scripts": {
     "test": "vtex-test-tools test",

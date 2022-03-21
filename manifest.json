@@ -1,7 +1,7 @@
 {
   "vendor": "deguns",
   "name": "deguns-breadcrumb",
-  "version": "4.0.0-beta.0",
+  "version": "0.1.0",
   "builders": {
     "store": "0.x",
     "react": "3.x",
@@ -20,7 +20,7 @@
     "vtex.search-page-context": "0.x",
     "vtex.css-handles": "0.x",
     "vtex.device-detector": "0.x",
-    "deguns.deguns-structured-data": "0.x"
+    "deguns.deguns-structured-data": "0.1.1"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
