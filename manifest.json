@@ -20,7 +20,7 @@
     "vtex.search-page-context": "0.x",
     "vtex.css-handles": "0.x",
     "vtex.device-detector": "0.x",
-    "deguns.deguns-structured-data": "4.0.0-beta.0"
+    "deguns.deguns-structured-data": "5.0.0-beta.0"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
